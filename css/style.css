@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    background-color: #314373;
+    
+}
+
+h1 {
+    font-family: 'Merriweather';
+    font-weight: bold;
+    color: #E5E5E5;
+    font-size: 23px;
+}
+
+li, .languages {
+    font-family: 'Poppins';
+    font-weight: medium;
+    font-size: 12px;
+    color: #E5E5E5;
+    
+}
+
+#languages {
+    padding-top: 12px;
+    margin-left: -20px;
+}
+
+.languages {
+    margin-top: 17px;
+}
+
+span{
+    padding-left: 15px;
+    
+    
+}
+
+#about li {
+    padding-top: 15px;
+}
+.footer {
+    background-color: #1E3161;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 100px;
+    border-radius: 9px;
+    box-shadow: 1px 1px 5px #1E3161;
+    width: 900px;
+    height: 350px;
+    
+}
+ul {
+    list-style: none;
+    position: absolute;
+}
+.container img {
+    max-width:50px;
+    max-height:25px;
+    width: auto;
+    height: auto;
+}
+
+
+#language{
+    margin-left: 330px;
+}
+
+#social{
+    margin-left: 600px;
+}
+
+#adicional {
+    margin-top: 300px;
+    color: #8F98B0;
+    font-family: 'Poppins';
+    font-weight: medium;
+    font-size: 12px;
+    margin-left: 260px;
+    
+}
+
+#twitter {
+    margin-left: 40px;
+    margin-top: -10px;
+}
+
+#linkedin {
+    margin-left: 42px;
+    margin-top: -30px;
+}
+
+#facebook {
+    margin-top: 20px;
+}
+
+#selecionado {
+    
+    border-radius: 5px;
+    background-color: #5AC1D8;
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 8px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
